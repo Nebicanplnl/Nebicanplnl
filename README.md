@@ -1,4 +1,4 @@
-<img src="https://wayspire.in/wp-content/uploads/2022/11/Android-App-Development-1.jpg" alt="Örnek Fotoğraf" width="3000" height="500" />
+<img src="https://wayspire.in/wp-content/uploads/2022/11/Android-App-Development-1.jpg" alt="Örnek Fotoğraf" width="2500" height="400" />
 
 <h1 align="center">Hi 👋, I'm Nebican Planalı</h1>
 <h3 align="center">A Passionate Android Developer From Turkey</h3>
